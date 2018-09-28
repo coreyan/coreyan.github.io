@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://coreyan.github.io/sitemap.xml
+Sitemap: http://www.gisge.com/sitemap.xml

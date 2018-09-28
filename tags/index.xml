@@ -2,183 +2,183 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Giser 从入门到放弃</title>
-    <link>http://coreyan.github.io/tags/</link>
+    <link>http://www.gisge.com/tags/</link>
     <description>Recent content in Tags on Giser 从入门到放弃</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://coreyan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.gisge.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>http://coreyan.github.io/tags/development/</link>
+      <link>http://www.gisge.com/tags/development/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://coreyan.github.io/tags/development/</guid>
+      <guid>http://www.gisge.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>http://coreyan.github.io/tags/english/</link>
+      <link>http://www.gisge.com/tags/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://coreyan.github.io/tags/english/</guid>
+      <guid>http://www.gisge.com/tags/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Footnote</title>
-      <link>http://coreyan.github.io/tags/footnote/</link>
+      <link>http://www.gisge.com/tags/footnote/</link>
       <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://coreyan.github.io/tags/footnote/</guid>
+      <guid>http://www.gisge.com/tags/footnote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Go</title>
-      <link>http://coreyan.github.io/tags/go/</link>
+      <link>http://www.gisge.com/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://coreyan.github.io/tags/go/</guid>
+      <guid>http://www.gisge.com/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>http://coreyan.github.io/tags/golang/</link>
+      <link>http://www.gisge.com/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://coreyan.github.io/tags/golang/</guid>
+      <guid>http://www.gisge.com/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>http://coreyan.github.io/tags/hugo/</link>
+      <link>http://www.gisge.com/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://coreyan.github.io/tags/hugo/</guid>
+      <guid>http://www.gisge.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>http://coreyan.github.io/tags/image/</link>
+      <link>http://www.gisge.com/tags/image/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://coreyan.github.io/tags/image/</guid>
+      <guid>http://www.gisge.com/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jekyll</title>
-      <link>http://coreyan.github.io/tags/jekyll/</link>
+      <link>http://www.gisge.com/tags/jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://coreyan.github.io/tags/jekyll/</guid>
+      <guid>http://www.gisge.com/tags/jekyll/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://coreyan.github.io/tags/markdown/</link>
+      <link>http://www.gisge.com/tags/markdown/</link>
       <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://coreyan.github.io/tags/markdown/</guid>
+      <guid>http://www.gisge.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Preview</title>
-      <link>http://coreyan.github.io/tags/preview/</link>
+      <link>http://www.gisge.com/tags/preview/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://coreyan.github.io/tags/preview/</guid>
+      <guid>http://www.gisge.com/tags/preview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>http://coreyan.github.io/tags/shortcodes/</link>
+      <link>http://www.gisge.com/tags/shortcodes/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://coreyan.github.io/tags/shortcodes/</guid>
+      <guid>http://www.gisge.com/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://coreyan.github.io/tags/syntax-highlighting/</link>
+      <link>http://www.gisge.com/tags/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>http://coreyan.github.io/tags/syntax-highlighting/</guid>
+      <guid>http://www.gisge.com/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag 11</title>
-      <link>http://coreyan.github.io/tags/tag-11/</link>
+      <link>http://www.gisge.com/tags/tag-11/</link>
       <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://coreyan.github.io/tags/tag-11/</guid>
+      <guid>http://www.gisge.com/tags/tag-11/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag 2</title>
-      <link>http://coreyan.github.io/tags/tag-2/</link>
+      <link>http://www.gisge.com/tags/tag-2/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://coreyan.github.io/tags/tag-2/</guid>
+      <guid>http://www.gisge.com/tags/tag-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag 5</title>
-      <link>http://coreyan.github.io/tags/tag-5/</link>
+      <link>http://www.gisge.com/tags/tag-5/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>http://coreyan.github.io/tags/tag-5/</guid>
+      <guid>http://www.gisge.com/tags/tag-5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag 6</title>
-      <link>http://coreyan.github.io/tags/tag-6/</link>
+      <link>http://www.gisge.com/tags/tag-6/</link>
       <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://coreyan.github.io/tags/tag-6/</guid>
+      <guid>http://www.gisge.com/tags/tag-6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag 7</title>
-      <link>http://coreyan.github.io/tags/tag-7/</link>
+      <link>http://www.gisge.com/tags/tag-7/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://coreyan.github.io/tags/tag-7/</guid>
+      <guid>http://www.gisge.com/tags/tag-7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Templates</title>
-      <link>http://coreyan.github.io/tags/templates/</link>
+      <link>http://www.gisge.com/tags/templates/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://coreyan.github.io/tags/templates/</guid>
+      <guid>http://www.gisge.com/tags/templates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Themes</title>
-      <link>http://coreyan.github.io/tags/themes/</link>
+      <link>http://www.gisge.com/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://coreyan.github.io/tags/themes/</guid>
+      <guid>http://www.gisge.com/tags/themes/</guid>
       <description></description>
     </item>
     
