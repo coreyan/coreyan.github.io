@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://coreyan.github.io/sitemap.xml

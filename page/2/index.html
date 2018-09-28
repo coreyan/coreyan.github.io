@@ -61,7 +61,7 @@
 <meta property="og:description" content="Giser 从入门到放弃." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://coreyan.github.io/" />
-<meta property="og:updated_time" content="2017-08-20T21:38:52&#43;08:00"/>
+<meta property="og:updated_time" content="2018-03-03T16:01:23&#43;08:00"/>
 
 <meta itemprop="name" content="Giser 从入门到放弃">
 <meta itemprop="description" content="Giser 从入门到放弃.">
@@ -364,10 +364,10 @@
     
       <article class="post bg-white">
   <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/post/jane-theme-preview/">Jane Theme Preview</a></h1>
+    <h1 class="post-title"><a class="post-link" href="/post/image-preview/">Image Preview</a></h1>
     
     <div class="post-meta">
-      <span class="post-time"> 2018-03-06 </span>
+      <span class="post-time"> 2018-03-03 </span>
       <div class="post-category">
           <a href="http://coreyan.github.io/categories/docs/"> docs </a>
           <a href="http://coreyan.github.io/categories/shortcodes/"> shortcodes </a>
@@ -383,14 +383,21 @@
   <div class="post-content">
     
     <div class="post-summary">
-      <p><strong>Markdown</strong> is created by <a href="http://daringfireball.net/">Daring Fireball</a>, the original guideline is <a href="http://daringfireball.net/projects/markdown/syntax">here</a>. Its syntax, however, varies between different parsers or editors.</p>
+      <p>Thanks for <a href="https://github.com/liwenyip/hugo-easy-gallery">liwenyip/hugo-easy-gallery</a> &amp; <a href="https://github.com/xianmin/hugo-theme-jane/pull/48">Zebradil · Pull Request #48</a> .</p>
 
-<p>Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.</p>
+<p>Now, we could use <code>{{&lt; gallery &gt;}}</code> shortcode in hugo-theme-jane.</p>
+
+<h2 id="normal-image">Normal Image</h2>
+
+<p>This is an image in <code>static/image</code> folder.</p>
+
+<pre><code class="language-markdown">![This is an image in `static/image` folder.](/image/example.jpg)
+</code></pre>
 
 <p></p>
     </div>
     <div class="read-more">
-      <a href="/post/jane-theme-preview/" class="read-more-link">阅读全文</a>
+      <a href="/post/image-preview/" class="read-more-link">阅读全文</a>
     </div>
     
   </div>
@@ -399,40 +406,10 @@
     
       <article class="post bg-white">
   <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/post/jane-theme-preview/">Jane 主题预览</a></h1>
+    <h1 class="post-title"><a class="post-link" href="/post/shortcode-notice/">Shortcodes Notice Preview</a></h1>
     
     <div class="post-meta">
-      <span class="post-time"> 2018-03-06 </span>
-      <div class="post-category">
-          <a href="http://coreyan.github.io/categories/shortcodes/"> shortcodes </a>
-          <a href="http://coreyan.github.io/categories/index/"> index </a>
-          
-        </div>
-      
-      
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    
-    <div class="post-summary">
-      主题预览,内容有待填充。
-    </div>
-    <div class="read-more">
-      <a href="/post/jane-theme-preview/" class="read-more-link">阅读全文</a>
-    </div>
-    
-  </div>
-</article>
-
-    
-      <article class="post bg-white">
-  <header class="post-header">
-    <h1 class="post-title"><a class="post-link" href="/post/shortcodes-preview/">Shortcodes Preview</a></h1>
-    
-    <div class="post-meta">
-      <span class="post-time"> 2018-03-04 </span>
+      <span class="post-time"> 2018-03-03 </span>
       <div class="post-category">
           <a href="http://coreyan.github.io/categories/docs/"> docs </a>
           <a href="http://coreyan.github.io/categories/shortcodes/"> shortcodes </a>
@@ -448,22 +425,42 @@
   <div class="post-content">
     
     <div class="post-summary">
-      <h2 id="what-a-shortcode-is">What a Shortcode is</h2>
+      normal use Note example: {{% notice note %}} A notice disclaimer {{% /notice %}} Result: note A notice disclaimer You could custom title : {{% notice note 笔记 %}} A notice disclaimer {{% /notice %}} 笔记 A notice disclaimer tip {{% notice tip %}} A tip disclaimer {{% /tip %}} tip A tip disclaimer info {{% notice info %}} A info disclaimer {{% /notice %}} info An information
+    </div>
+    <div class="read-more">
+      <a href="/post/shortcode-notice/" class="read-more-link">阅读全文</a>
+    </div>
+    
+  </div>
+</article>
 
-<p>Hugo loves Markdown because of its simple content format, but there are times when Markdown falls short. Often, content authors are forced to add raw HTML (e.g., video <code>&lt;iframes&gt;</code>) to Markdown content. We think this contradicts the beautiful simplicity of Markdown&rsquo;s syntax.</p>
-
-<p>Hugo created <strong>shortcodes</strong> to circumvent these limitations.</p>
-
-<p>A shortcode is a simple snippet inside a content file that Hugo will render using a predefined template. Note that shortcodes will not work in template files. If you need the type of drop-in functionality that shortcodes provide but in a template, you most likely want a [partial template][partials] instead.</p>
-
-<p>In addition to cleaner Markdown, shortcodes can be updated any time to reflect new classes, techniques, or standards. At the point of site generation, Hugo shortcodes will easily merge in your changes. You avoid a possibly complicated search and replace operation.</p>
-
-<p>More details: <a href="https://gohugo.io/content-management/shortcodes/">https://gohugo.io/content-management/shortcodes/</a></p>
+    
+      <article class="post bg-white">
+  <header class="post-header">
+    <h1 class="post-title"><a class="post-link" href="/post/doc-footnote-preview/">Jane-Theme Footnote Preview</a></h1>
+    
+    <div class="post-meta">
+      <span class="post-time"> 2018-03-01 </span>
+      <div class="post-category">
+          <a href="http://coreyan.github.io/categories/docs/"> docs </a>
+          <a href="http://coreyan.github.io/categories/index/"> index </a>
+          
+        </div>
+      
+      
+      
+    </div>
+  </header>
+  
+  <div class="post-content">
+    
+    <div class="post-summary">
+      <p>Hugo-theme-jane optimized for footnote. When you mouse hover the footnote<sup class="footnote-ref" id="fnref:example"><a href="#fn:example">1</a></sup> , footnote content will be displayed.</p>
 
 <p></p>
     </div>
     <div class="read-more">
-      <a href="/post/shortcodes-preview/" class="read-more-link">阅读全文</a>
+      <a href="/post/doc-footnote-preview/" class="read-more-link">阅读全文</a>
     </div>
     
   </div>
@@ -495,11 +492,11 @@
   <nav class="pagination">
     <ul>
       
-      <li  class="active" >
+      <li >
         <a href="/">1</a>
       </li>
       
-      <li >
+      <li  class="active" >
         <a href="/page/2/">2</a>
       </li>
       
